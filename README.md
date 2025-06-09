@@ -33,7 +33,7 @@ I'm a # CS student # passionate about tech and open source projects. I love buil
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical)](https://github.com/Malekio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical)](https://github.com/Malekio/repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical)](https://github.com/Malekio)
 
 ## 🔥 Streak Stats
 
