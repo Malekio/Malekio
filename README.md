@@ -1,6 +1,6 @@
 # Hi there, I'm MALEK 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Passionate+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -9,6 +9,8 @@ I'm a # CS student # passionate about tech and open source projects. I love buil
 - 🔭 I'm currently working on Password Manager open source project.
 - 📫 How to reach me: zabdelamalek@gmail.com
 - ⚡ Fun fact: I like this one "./"
+
+# 🔥 I'M COMING IN HOT! 🔥
 
 ## 🛠 Tech Stack
 
