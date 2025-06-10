@@ -4,6 +4,8 @@
 
 ## 🚀 About Me
 
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRienVtcXBhdnIyNmNqMTZnd2V5ZDQ2b3E2d3FhaGtveXNuNTdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0O9x8JMEN7xpyXHa/giphy.gif
+
 I'm a # CS student # passionate about tech and open source projects. I love building projects and enjoying my journey here!  
 
 - 🔭 I'm currently working on Password Manager open source project.
