@@ -3,16 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Passionate+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 🚀 About Me
+I'm a # CS student # passionate about tech and building projects. I am enjoying my journey here!  
+![Bitcoin Coding GIF by Pizza Ninjas](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036)
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRienVtcXBhdnIyNmNqMTZnd2V5ZDQ2b3E2d3FhaGtveXNuNTdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0O9x8JMEN7xpyXHa/giphy.gif
-
-I'm a # CS student # passionate about tech and open source projects. I love building projects and enjoying my journey here!  
 
 - 🔭 I'm currently working on Password Manager open source project.
 - 📫 How to reach me: zabdelamalek@gmail.com
 - ⚡ Fun fact: I like this one "./"
 
 # 🔥 I'M COMING IN HOT! 🔥
+![Code Hacking GIF by Pizza Ninjas(1)](https://github.com/user-attachments/assets/91efe978-d451-4625-bcae-d8be5f2213e5)
+
 
 ## 🛠 Tech Stack
 
