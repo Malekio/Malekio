@@ -1,11 +1,11 @@
 # Hi there, I'm MALEK 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Passionate+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Passionate+Developer;Computer+Science+Student;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a # CS student # passionate about tech and building projects. I am enjoying my journey here!  
-![Bitcoin Coding GIF by Pizza Ninjas](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036)
 
+![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036){: width="400"}
 
 - 🔭 I'm currently working on Password Manager open source project.
 - 📫 How to reach me: zabdelamalek@gmail.com
