@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a # CS student # passionate about tech and building projects. I am enjoying my journey here!  
 
-//![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036)
+<!-- ![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036) -->
 
 - 🔭 I'm currently working on Password Manager open source project.
 - 📫 How to reach me: zabdelamalek@gmail.com
