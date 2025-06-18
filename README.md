@@ -29,5 +29,5 @@
   </a>
 </div>
 
-<img align="left" height="250px" width="450px" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" />
-<img align="right" height="250px" width="450px" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" />
+<img align="left" height="200px" width="400px" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" />
+<img align="right" height="200px" width="400px" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" />
