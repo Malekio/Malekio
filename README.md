@@ -1,6 +1,6 @@
 <!-- ![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036) -->
 ```python
-if isAwesome:
+if not concours:
  return true
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hi+There;I'm+Malek+👋;Computer+Science+Student)](https://git.io/typing-svg)
