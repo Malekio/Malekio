@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=200&lines=Hi+There!;I'm+Malek)](https://git.io/typing-svg)
 
+
+<h3 align="center">Let's contact</h3>
+<p align="center">
+  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mylink)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/myprofile)
 </p>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<p align="center">
-  
 <h3 align="center">🚀 Tech Stack</h3>
 <p align="center">
   
@@ -19,4 +20,4 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=E44C30)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=EB5E28)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965F1)
-</p></p>
+</p>
