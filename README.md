@@ -30,6 +30,5 @@
   </a>
 </div>
 
-<img align="center" src=![animation travel GIF by Ryan Seslow](https://github.com/user-attachments/assets/e6b8254d-a3d5-4354-aeba-bae3980d11d6)
->
+<img align="center" src=https://github.com/user-attachments/assets/e6b8254d-a3d5-4354-aeba-bae3980d11d6>
 
