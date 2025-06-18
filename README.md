@@ -13,6 +13,7 @@ Building robust systems from low-level to web applications.
 <!-- Contact Section -->
 <h3>📬 Contact</h3>
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
   [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mylink)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myprofile)
   [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
@@ -21,6 +22,7 @@ Building robust systems from low-level to web applications.
 <!-- Tech Stack Section -->
 <h3>🚀 Languages & Tools</h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33)
   ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC)
