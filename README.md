@@ -29,18 +29,17 @@
 </div>
 <div align="center">
 
-<div align="center">
+## 📈 GitHub Stats
 
-<!-- Fire-Classy GitHub Stats -->
-<a href="https://github.com/Malekio">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true&count_private=true&line_height=24&custom_title=My%20Coding%20Journey" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&card_width=290&langs_count=6&custom_title=My%20Code%20DNA" width="45%" />
-</a>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-<!-- Animated Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Malekio&theme=radical&hide_border=true&background=00000000&stroke=FF6B00&ring=FF9E00&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A9A9A9&border_radius=5.5)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
-<!-- Premium Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B" width="100%" alt="My Achievements">
+## 🔥 Streak Stats
 
-</div></div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
