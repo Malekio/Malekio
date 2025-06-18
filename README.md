@@ -30,5 +30,4 @@
   </a>
 </div>
 
-<img align="center" src=https://github.com/user-attachments/assets/e6b8254d-a3d5-4354-aeba-bae3980d11d6>
-
+<img align="right" height="210" src="https://24.media.tumblr.com/089b18e864c2a3353e57db03a17ccd9d/tumblr_mhd7b0EXAB1rhyx92o1_500.gif"  />
