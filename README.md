@@ -36,8 +36,10 @@
     
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF)](https://github.com/Malekio)
     
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
 </div>
 
 </div>
+
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
