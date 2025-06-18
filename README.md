@@ -29,4 +29,5 @@
   </a>
 </div>
 
-<img align="center" height="200px" width="1000px" src="https://github.com/user-attachments/assets/c7f3887f-f98f-453c-9321-c1b679f0b39f"  />
+<img align="center" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" />
+<img align="center" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" />
