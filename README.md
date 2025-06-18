@@ -28,4 +28,4 @@
   </a>
 </div>
 
-<img align="center" src="https://github.com/user-attachments/assets/c7f3887f-f98f-453c-9321-c1b679f0b39f"  />
+<img align="center" height="100px" width="100px" src="https://github.com/user-attachments/assets/c7f3887f-f98f-453c-9321-c1b679f0b39f"  />
