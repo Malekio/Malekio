@@ -4,7 +4,7 @@ if not concoursESTIN:
  return true
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hi+There!;I'm+Malek)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=200&lines=Hi+There!;I'm+Malek)](https://git.io/typing-svg)
 ![download(1)](https://github.com/user-attachments/assets/df0a270b-a475-4a68-b72b-876ea0948d01)
 
 ## 🚀 About Me
