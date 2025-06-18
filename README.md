@@ -13,6 +13,7 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
   - ⚡ Fun fact: I like this one "./"
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B&labelColor=%231A1A1A)
 ## 🛠 Tech Stack
 
 ## Programming Languages
