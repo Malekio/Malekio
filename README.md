@@ -11,8 +11,7 @@ I'm a # CS student # passionate about tech and building projects. I am enjoying 
 - 📫 How to reach me: zabdelamalek@gmail.com
 - ⚡ Fun fact: I like this one "./"
 
-# 🔥 I'M COMING IN HOT! 🔥
-![Code Hacking GIF by Pizza Ninjas(1)](https://github.com/user-attachments/assets/91efe978-d451-4625-bcae-d8be5f2213e5)
+![download](https://github.com/user-attachments/assets/101872e0-5313-4b23-b83d-cbd34aab1c24)
 
 
 ## 🛠 Tech Stack
