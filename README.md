@@ -27,8 +27,8 @@
 </div>
 
 <div align="center" style="white-space: nowrap; overflow-x: auto;">
-  
-[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true)](https://github.com/Malekio) 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical)](https://github.com/Malekio) 
 [![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical)](https://git.io/streak-stats) 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical)](https://github.com/Malekio)
 
