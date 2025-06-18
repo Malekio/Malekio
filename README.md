@@ -32,14 +32,14 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
   <!-- Left GIF -->
-  <div style="flex: 1 1 300px; max-width: 400px;">
+  <div align="left" style="flex: 1 1 300px; max-width: 400px;">
     <img align="left" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" 
          style="width: 100%; height: auto; max-height: 200px; object-fit: contain;" 
          alt="Left GIF">
   </div>
   
   <!-- Right GIF -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: right;">
+  <div align="right" style="flex: 1 1 300px; max-width: 400px; text-align: right;">
     <img align="right" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" 
          style="width: 100%; height: auto; max-height: 200px; object-fit: contain;" 
          alt="Right GIF">
