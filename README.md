@@ -27,12 +27,12 @@
 
 <div style="display: flex; justify-content: center; white-space: nowrap; overflow-x: auto; gap: 10px; padding: 5px 0;">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00)](https://github.com/Malekio)
+<div align="center" style="display: flex; justify-content: center; white-space: nowrap; overflow-x: auto; gap: 10px; padding: 5px 0;">
 
-[![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&fire=FF6B00&currStreakLabel=FF6B00&dates=FFFFFF)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical)](https://github.com/Malekio) 
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical)](https://github.com/Malekio)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF)](https://github.com/Malekio)
-
+</div>
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=5&margin-h=5&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
