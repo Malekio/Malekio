@@ -25,13 +25,13 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
+<div align="center" style="display: flex; justify-content: center; gap: 5px; white-space: nowrap; overflow-x: auto; padding: 5px 0;">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true&hide=issues&count_private=true&custom_title=My%20Stats&card_width=250)](https://github.com/Malekio)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true&hide=issues&count_private=true&custom_title=My%20Stats&card_width=220)](https://github.com/Malekio) 
 
-[![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&fire=FF6B00&currStreakLabel=FF6B00&dates=FFFFFF&card_width=250)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&fire=FF6B00&currStreakLabel=FF6B00&dates=FFFFFF&card_width=220)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&card_width=250&langs_count=4)](https://github.com/Malekio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&card_width=220&langs_count=3)](https://github.com/Malekio)
 
 </div>
 
