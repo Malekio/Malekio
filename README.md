@@ -13,7 +13,7 @@
   margin: 20px 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 ">
-  Hey There! I'm <strong>Malek</strong> - a CS student passionate about tech, enjoying my journey here ✨
+  Hey There! I'm <strong>Malek</strong> - a  `CS student` passionate about tech, enjoying my journey here ✨
 </p>
 
 </div>
