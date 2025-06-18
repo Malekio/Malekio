@@ -30,10 +30,11 @@
     
   [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true)](https://github.com/Malekio)
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)  </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical)](https://git.io/streak-stats)  </div>
   
   <div style="flex: 1; min-width: 300px;">
-    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF)](https://github.com/Malekio)
+    
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF)](https://github.com/Malekio)
     
   [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
