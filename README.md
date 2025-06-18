@@ -30,4 +30,4 @@
   </a>
 </div>
 
-<img align="right" height="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN2eDZla2duZHpkdjl6ZWZzam5kM3A0eDRrcGUwMnAwbmM3dWdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI0Sv7LzloCz5AI/giphy.gif"  />
+<img align="right" height="210" src="https://github.com/user-attachments/assets/c7f3887f-f98f-453c-9321-c1b679f0b39f"  />
