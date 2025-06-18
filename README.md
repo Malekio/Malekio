@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://tcno.co"><img src="https://i.imgur.com/fd1beCe.png" alt="TCNO logo" width="60%"></a>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=200&lines=Hi+There!;I'm+Malek)](https://git.io/typing-svg)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mylink)
@@ -10,6 +6,7 @@
 
 <h3 align="center">Languages, Frameworks & Technologies</h3>
 <p align="center">
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
