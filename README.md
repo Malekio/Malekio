@@ -12,9 +12,7 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
   - 📫 How to reach me: zabdelamalek@gmail.com
   - ⚡ Fun fact: I like this one "./"
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=linear-gradient(45deg,#306998,#FFD43B))
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=linear-gradient(45deg,#5382A1,#F89820))
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=white&borderRadius=12&boxShadow=0px_4px_8px_rgba(0,0,0,0.2))
 
 ## 🛠 Tech Stack
 
