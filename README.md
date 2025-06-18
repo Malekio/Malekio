@@ -29,7 +29,6 @@
 <div align="center" style="white-space: nowrap; overflow-x: auto;">
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical)](https://github.com/Malekio) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical)](https://github.com/Malekio)
 
 </div>
