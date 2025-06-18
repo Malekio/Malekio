@@ -3,3 +3,24 @@
 
 <p align="center">HEY, THERE! I'm a <strong>CS student</strong> possionate about tech, I'm enjoying my journey here✨</p>
 
+<div align="center">
+  <!-- Instagram
+  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a> -->
+  
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/yourid" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:your@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
