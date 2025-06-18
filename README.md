@@ -1,5 +1,3 @@
-![animation travel GIF by Ryan Seslow](https://github.com/user-attachments/assets/f10c0e4a-fcd7-4476-9ad2-0ec2990809ce)
-<div align="center">
 <!-- Typing Animation -->
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!+--->;Welcome+to+my+GitHub)](https://git.io/typing-svg)
