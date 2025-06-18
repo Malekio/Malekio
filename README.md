@@ -41,5 +41,8 @@
 
 </div>
 
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=5&margin-h=5&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
