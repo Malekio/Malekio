@@ -30,18 +30,13 @@
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <!-- Left GIF -->
-  <div style="flex: 1 1 300px; max-width: 400px;">
-    <img align="left" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" 
-         style="width: 100%; height: auto; max-height: 200px; object-fit: contain;" 
-         alt="Left GIF">
-  </div>
+<div align="center">
   
-  <!-- Right GIF -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: right;">
-    <img align="right" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" 
-         style="width: 100%; height: auto; max-height: 200px; object-fit: contain;" 
-         alt="Right GIF">
-  </div>
+<!-- Left GIF (Desktop) / Top (Mobile) -->
+<img align="left" width="45%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="min-width: 300px; margin-right: 5%;">
+
+<!-- Right GIF (Desktop) / Bottom (Mobile) -->
+<img align="right" width="45%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="min-width: 300px;">
+
+<br clear="both"> <!-- Ensures proper clearing after floats -->
 </div>
