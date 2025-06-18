@@ -36,6 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&card_width=290&langs_count=6&custom_title=My%20Code%20DNA" width="45%" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&stroke=FF6B00&ring=FF9E00&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A9A9A9&border_radius=5.5)](https://git.io/streak-stats)<img src="https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B" width="50%" alt="My Achievements">
-
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&stroke=FF6B00&ring=FF9E00&fire=FF6B00)](https://git.io/streak-stats)
 </div></div>
