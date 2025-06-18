@@ -1,4 +1,5 @@
 <!-- Typing Animation -->
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!+--->;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 </div>
@@ -28,4 +29,4 @@
   </a>
 </div>
 
-<img align="center" height="500px" width="1000px" src="https://github.com/user-attachments/assets/c7f3887f-f98f-453c-9321-c1b679f0b39f"  />
+<img align="center" height="200px" width="1000px" src="https://github.com/user-attachments/assets/c7f3887f-f98f-453c-9321-c1b679f0b39f"  />
