@@ -1,18 +1,22 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=200&lines=Hi+There!;I'm+Malek)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=200&lines=Hi+There!;welcome+to+my+GitHub)](https://git.io/typing-svg)
+
+
 
 <!-- Contact Section -->
-<h3>📬 Let's Connect</h3>
-
+<h3>📬 Contact</h3>
+<div>
+  
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mylink)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myprofile)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
-
+</div>
 <!-- Tech Stack Section -->
 <h3>🚀 Languages and tools I've worked with</h3>
-
+<div>
+  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33&color=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC)
@@ -22,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=E44C30)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=EB5E28)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965F1)
-
+</div>
 ## 📈 GitHub Analytics
 
 <div style="display: flex; justify-content: center; white-space: nowrap; overflow-x: auto; gap: 10px; padding: 5px 0;">
