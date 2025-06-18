@@ -27,5 +27,21 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=EB5E28)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965F1)
 </div>
+<div align="center">
 
+## 🔥 GitHub Analytics
+
+<!-- Animated Stats Card -->
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true&count_private=true&line_height=24&custom_title=My%20Coding%20Journey&animate=true)](https://github.com/Malekio)
+
+<!-- Streak Stats with Fire Animation -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Malekio&theme=radical&hide_border=true&background=00000000&stroke=FF6B00&ring=FF9E00&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A9A9A9&border_radius=5.5&animation=fadeIn)](https://git.io/streak-stats)
+
+<!-- Compact Language Stats -->
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&card_width=290&langs_count=6&custom_title=My%20Code%20DNA)](https://github.com/Malekio)
+
+<!-- Premium Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B" width="100%" alt="My Achievements">
+
+</div>
 </div>
