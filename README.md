@@ -44,7 +44,7 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Malekio&theme=gruvbox&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Malekio&theme=gruvbox&row=1" width="250" style="zoom: 0.8;" alt="Trophies">
 
 ## 🤝 Let's Connect
 
