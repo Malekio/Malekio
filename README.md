@@ -7,7 +7,7 @@
 
 <p align="center">HEY, THERE! I'm a <strong>CS student</strong> possionate about tech, I'm enjoying my journey here✨</p>
 
-<h2>Contact me,</h2>
+<h2>                      Contact me,</h2>
 <div align="center">
   <!-- Instagram
   <a href="https://www.instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
