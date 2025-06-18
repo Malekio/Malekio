@@ -21,7 +21,7 @@ Building robust systems from low-level to web applications.
 
 <!-- Tech Stack Section -->
 <h3>🚀 Languages & Tools</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex; justify-content: center; gap: wrap; gap: 8px;">
   
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33)
@@ -40,9 +40,6 @@ Building robust systems from low-level to web applications.
   <img src="https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true" width="48%">
 </div>
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Malekio&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Trophies -->
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
