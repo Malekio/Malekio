@@ -7,7 +7,8 @@ I'm a # CS student # passionate about tech and building projects. I am enjoying 
 
 <!-- ![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036) -->
 
-- 🔭 I'm currently working on Password Manager open source project.        ![download](https://github.com/user-attachments/assets/101872e0-5313-4b23-b83d-cbd34aab1c24)
+                                                                          ![download](https://github.com/user-attachments/assets/101872e0-5313-4b23-b83d-cbd34aab1c24)
+- 🔭 I'm currently working on Password Manager open source project.        
 - 📫 How to reach me: zabdelamalek@gmail.com
 - ⚡ Fun fact: I like this one "./"
 
