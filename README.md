@@ -37,6 +37,7 @@
     </a>
   </div>
 </div>
+
 [![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&fire=FF6B00&currStreakLabel=FF6B00&dates=FFFFFF)](https://git.io/streak-stats)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
