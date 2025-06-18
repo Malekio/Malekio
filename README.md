@@ -12,16 +12,16 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
   - 📫 How to reach me: zabdelamalek@gmail.com
   - ⚡ Fun fact: I like this one "./"
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=linear-gradient(45deg,#306998,#FFD43B))
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=linear-gradient(45deg,#5382A1,#F89820))
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=20)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20)
+
 ## 🛠 Tech Stack
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=5382A1)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white&labelColor=black)
 
 ## Frameworks & Databases
