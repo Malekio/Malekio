@@ -31,17 +31,17 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=merko)](https://github.com/Malekio)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=gruvbox)](https://github.com/Malekio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=merko)](https://github.com/Malekio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=gruvbox)](https://github.com/Malekio)
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=gruvbox)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Malekio&theme=merko&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Malekio&theme=gruvbox&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Let's Connect
 
