@@ -32,7 +32,7 @@
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical)](https://git.io/streak-stats)  </div>
   
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 100px;">
     
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF)](https://github.com/Malekio)
     
