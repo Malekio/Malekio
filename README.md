@@ -2,7 +2,7 @@
 <div align="center">
 <!-- Typing Animation -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#8A2BE2&width=300&lines=Hi+There!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 </div>
 
 <p align="center">HEY, THERE! I'm a <strong>CS student</strong> possionate about tech, I'm enjoying my journey here✨</p>
