@@ -3,8 +3,6 @@
 if not concoursESTIN:
  return true
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=00F718&width=300&lines=Hi+There;I'm+Malek+👋;Computer+Science+Student)](https://git.io/typing-svg)
-![download](https://github.com/user-attachments/assets/101872e0-5313-4b23-b83d-cbd34aab1c24)    
 
 ## 🚀 About Me
 I'm a Computer-Science Student passionate about tech and building projects. I am enjoying my journey here!  
@@ -15,9 +13,9 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
   - ⚡ Fun fact: I like this one "./"
 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white&color=306998&labelColor=black)
-![Django](https://img.shields.io/badge/-Django-0C4B33?style=plastic&logo=django&logoColor=white&color=092E20&labelColor=black)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=20)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20)
 ## 🛠 Tech Stack
 
 ## Programming Languages
