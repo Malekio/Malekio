@@ -25,23 +25,15 @@
 
 ## 📈 GitHub Analytics
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
-    
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true)](https://github.com/Malekio)
-    
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical)](https://git.io/streak-stats)  </div>
-  
-  <div style="flex: 1; min-width: 50px;">
-    
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF)](https://github.com/Malekio)
-    
-  </div>
-</div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true&hide=issues&count_private=true&custom_title=My%20Stats&card_width=250)](https://github.com/Malekio)
+
+[![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&fire=FF6B00&currStreakLabel=FF6B00&dates=FFFFFF&card_width=250)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&card_width=250&langs_count=4)](https://github.com/Malekio)
 
 </div>
-
-<div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=5&margin-h=5&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
