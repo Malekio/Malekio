@@ -25,18 +25,9 @@
 
 ## 📈 GitHub Analytics
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <a href="https://github.com/Malekio">
-      <img src="https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true" width="400" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/Malekio">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF" width="400" />
-    </a>
-  </div>
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF9E00&include_all_commits=true)](https://github.com/Malekio)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B00&text_color=FFFFFF)](https://github.com/Malekio)
 
 [![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=radical&hide_border=true&background=00000000&fire=FF6B00&currStreakLabel=FF6B00&dates=FFFFFF)](https://git.io/streak-stats)
 
