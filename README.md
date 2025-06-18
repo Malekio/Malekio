@@ -1,4 +1,4 @@
-
+![animation travel GIF by Ryan Seslow](https://github.com/user-attachments/assets/f10c0e4a-fcd7-4476-9ad2-0ec2990809ce)
 <div align="center">
 <!-- Typing Animation -->
   
@@ -30,5 +30,6 @@
   </a>
 </div>
 
-<img align="center" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN2eDZla2duZHpkdjl6ZWZzam5kM3A0eDRrcGUwMnAwbmM3dWdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI0Sv7LzloCz5AI/giphy.gif>
+<img align="center" src=![animation travel GIF by Ryan Seslow](https://github.com/user-attachments/assets/e6b8254d-a3d5-4354-aeba-bae3980d11d6)
+>
 
