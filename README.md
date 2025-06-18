@@ -7,9 +7,9 @@
 I'm a Computer-Science Student passionate about tech and building projects. I am enjoying my journey here!  
 
 
-  > 🔭 I'm currently working on Password Manager open source project. 
-  > 📫 How to reach me: zabdelamalek@gmail.com
-  > ⚡ Fun fact: I like this one "./"
+  - 🔭 I'm currently working on Password Manager open source project. 
+  - 📫 How to reach me: zabdelamalek@gmail.com
+  - ⚡ Fun fact: I like this one "./"
 
 
 
