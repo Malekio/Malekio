@@ -34,10 +34,9 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&icon_color=fabd2f&title_color=fe8019&text_color=ebdbb2" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=fe8019&text_color=ebdbb2" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&icon_color=fabd2f&title_color=fe8019&text_color=ebdbb2" width="49%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=fe8019&text_color=ebdbb2" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Malekio&theme=gruvbox&hide_border=true&background=00000000&stroke=fe8019&ring=fabd2f&fire=fe8019&currStreakNum=ebdbb2&sideNums=ebdbb2&sideLabels=ebdbb2&dates=d5c4a1" width="90%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Malekio&theme=gruvbox&row=1&margin-w=15&no-frame=true&no-bg=true" width="90%"/>
-</p>## 🤝 Let's Connect
+</p></p>## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
