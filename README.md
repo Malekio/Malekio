@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
 
 <!-- Tech Stack Section -->
-<h3>🚀 Tech Stack</h3>
+<h3>🚀 Languages and tools I've worked with</h3>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33&color=white)
