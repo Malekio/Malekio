@@ -15,12 +15,12 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
 ## 🛠 Tech Stack
 
 ## Programming Languages
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white&labelColor=black)
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Java">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="C">
  
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white&labelColor=black)
 
 ## Frameworks & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
