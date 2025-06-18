@@ -11,8 +11,14 @@ Building robust systems from low-level to web applications.
 </p>
 
 <!-- Contact Section -->
-<h3>📬 Contact</h3>
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=220&lines=Hi+There!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
+<!-- Contact Section -->
+<h3 style="border-bottom: 1px solid #444; padding-bottom: 5px; width: 80%; margin: 0 auto;">📬 Contact</h3>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
   
   [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mylink)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myprofile)
@@ -20,8 +26,8 @@ Building robust systems from low-level to web applications.
 </div>
 
 <!-- Tech Stack Section -->
-<h3>🚀 Languages & Tools</h3>
-<div style="display: flex; justify-content: center; gap: wrap; gap: 8px;">
+<h3 style="border-bottom: 1px solid #444; padding-bottom: 5px; width: 80%; margin: 0 auto;">🚀 Languages & Tools</h3>
+<div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 10px;">
   
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33)
@@ -34,14 +40,16 @@ Building robust systems from low-level to web applications.
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965F1)
 </div>
 
-## 📈 GitHub Analytics
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<!-- GitHub Analytics Section -->
+<h3 style="border-bottom: 1px solid #444; padding-bottom: 5px; width: 80%; margin: 0 auto;">📈 GitHub Analytics</h3>
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=radical&hide_border=true" width="48%">
 </div>
 
+</div>
 <!-- Trophies -->
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Malekio&theme=radical&no-bg=true&no-frame=true&row=1&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
