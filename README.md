@@ -4,7 +4,7 @@ if not concoursESTIN:
  return true
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hi+There;I'm+Malek+👋;Computer+Science+Student)](https://git.io/typing-svg)
-![download](https://github.com/user-attachments/assets/101872e0-5313-4b23-b83d-cbd34aab1c24)    
+          ![download](https://github.com/user-attachments/assets/101872e0-5313-4b23-b83d-cbd34aab1c24)    
 
 ## 🚀 About Me
 I'm a Computer-Science Student passionate about tech and building projects. I am enjoying my journey here!  
