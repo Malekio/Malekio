@@ -32,20 +32,23 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
 ## DevOps & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Git">
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=gruvbox)](https://github.com/Malekio)
+<div align="center">
+  
+### 🎯 Profile Overview
+[![Malekio's Stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&icon_color=fabd2f&title_color=fe8019&text_color=ebdbb2)](https://github.com/Malekio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=gruvbox)](https://github.com/Malekio)
+### 💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=fe8019&text_color=ebdbb2)](https://github.com/Malekio)
 
-## 🔥 Streak Stats
+### 🔥 Contribution Streak
+[![Streak](https://streak-stats.demolab.com/?user=Malekio&theme=gruvbox&hide_border=true&background=00000000&stroke=fe8019&ring=fabd2f&fire=fe8019&currStreakNum=ebdbb2&sideNums=ebdbb2&sideLabels=ebdbb2&dates=d5c4a1)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Malekio&theme=gruvbox)](https://git.io/streak-stats)
+### 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Malekio&theme=gruvbox&row=1&margin-w=15&no-frame=true&no-bg=true" width="100%" alt="Trophies">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Malekio&theme=gruvbox&row=1" width="250" style="zoom: 0.8;" alt="Trophies">
-
+</div>
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
