@@ -1,3 +1,4 @@
+<!-- ![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hi+There;I'm+Malek+👋;Computer+Science+Student)](https://git.io/typing-svg)
 ![download](https://github.com/user-attachments/assets/101872e0-5313-4b23-b83d-cbd34aab1c24)    
@@ -5,11 +6,10 @@
 ## 🚀 About Me
 I'm a Computer-Science Student passionate about tech and building projects. I am enjoying my journey here!  
 
-<!-- ![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036) -->
-![Bitcoin Coding GIF](https://github.com/user-attachments/assets/fdb356ee-eec9-4ecd-a3c0-62e85173b036)
-  - 🔭 I'm currently working on Password Manager open source project. 
-  - 📫 How to reach me: zabdelamalek@gmail.com
-  - ⚡ Fun fact: I like this one "./"
+
+  > 🔭 I'm currently working on Password Manager open source project. 
+  > 📫 How to reach me: zabdelamalek@gmail.com
+  > ⚡ Fun fact: I like this one "./"
 
 
 
