@@ -2,6 +2,8 @@
 ```python
 if not concoursESTIN:
  return true
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
+
 ```
 
 ## 🚀 About Me
