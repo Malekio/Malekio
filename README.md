@@ -9,18 +9,18 @@ if not concoursESTIN:
 
 ## 🚀 About Me
 
-🎓 Computer Science Student passionate about tech & building things.
-💼 Currently working on personal projects.
-📫 Reach me at: zabdelamalek@gmail.com
-⚡ Fun fact: I like this one — ./
+- 🎓 Computer Science Student passionate about tech & building things.
+- 💼 Currently working on personal projects.
+- 📫 Reach me at: zabdelamalek@gmail.com
+- ⚡ Fun fact: I like this one — ./
 
 # 🛠 Tech Stack
 ## 👨‍💻 Programming Languages
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white&labelColor=black)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Java">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="C">🧰 Frameworks & Databases
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white&labelColor=black)
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
