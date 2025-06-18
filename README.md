@@ -32,15 +32,6 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
 ## DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=E44C30)
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ## 📈 GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Malekio&show_icons=true&theme=radical)](https://github.com/Malekio)
