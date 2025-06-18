@@ -15,7 +15,8 @@ I'm a Computer-Science Student passionate about tech and building projects. I am
   - ⚡ Fun fact: I like this one "./"
 
 
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white&color=306998&labelColor=black)
+![Django](https://img.shields.io/badge/-Django-0C4B33?style=plastic&logo=django&logoColor=white&color=092E20&labelColor=black)
 
 ## 🛠 Tech Stack
 
