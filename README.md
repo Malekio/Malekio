@@ -74,3 +74,25 @@
 <img  src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
 
 </div>
+
+
+
+
+<div align="right" style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=python,django,c,java,assembly" width="360" style="margin-left: auto;">
+
+<!-- Web -->
+<img src="https://skillicons.dev/icons?i=html,css,mysql,sqlite" width="280" style="margin-left: auto;">
+
+<!-- Systems -->
+<img src="https://skillicons.dev/icons?i=linux,kalilinux,windows" width="240" style="margin-left: auto;">
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" width="280" style="margin-left: auto;">
+
+<!-- IDEs -->
+<img src="https://skillicons.dev/icons?i=idea,pycharm,eclipse" width="220" style="margin-left: auto;">
+
+</div>
