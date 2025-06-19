@@ -108,7 +108,7 @@
 
 <div align="center">
 <!-- Programming Languages -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=26&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=35&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=26&labelColor=0C4B33&color=white" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=26&labelColor=A8B9CC" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
