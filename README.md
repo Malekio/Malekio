@@ -40,7 +40,14 @@
 <!-- DOWN GIF -->
   <img width="49%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="display: inline-block; min-width: 300px;">
 
-<div align="right" style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 14px; margin-left: auto;">
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 14px; margin-left: auto;"
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+">">
 
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=26&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
