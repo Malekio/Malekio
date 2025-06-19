@@ -55,32 +55,36 @@
   box-shadow: 0 8px 32px rgba(0,0,0,0.18);
 ">
 
-<!-- Programming -->
-<a href="https://python.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=python,django,c,java,rust&theme=dark&perline=5" 
-       style="height: 42px; transition: all 0.3s;" 
-       onmouseover="this.style.transform='translateY(-4px)'"
-       onmouseout="this.style.transform='none'">
-</a>
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python" style="height: 42px; transition: all 0.3s;" title="Python">
+<img src="https://skillicons.dev/icons?i=django" style="height: 42px; transition: all 0.3s;" title="Django">
+<img src="https://skillicons.dev/icons?i=c" style="height: 42px; transition: all 0.3s;" title="C">
+<img src="https://custom-icon-badges.demolab.com/badge/-Assembly-6E4C13?logo=assembly" style="height: 42px;" title="Assembly">
+<img src="https://skillicons.dev/icons?i=java" style="height: 42px; transition: all 0.3s;" title="Java">
 
-<!-- Web & Databases -->
-<a href="#web-tech">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,sqlite,postgres&theme=dark&perline=5"
-       style="height: 42px; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3))">
-</a>
+<!-- Web Technologies -->
+<img src="https://skillicons.dev/icons?i=html" style="height: 42px;" title="HTML5">
+<img src="https://skillicons.dev/icons?i=css" style="height: 42px;" title="CSS3">
 
-<!-- Systems & Tools -->
-<a href="#systems">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Kali_Linux-557C94?logo=kali-linux-white"
-       style="height: 42px; background: linear-gradient(145deg, #557C94, #3A5F73)">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode&theme=light&perline=5"
-       style="height: 42px">
-</a>
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql" style="height: 42px;" title="MySQL">
+<img src="https://skillicons.dev/icons?i=sqlite" style="height: 42px;" title="SQLite">
+
+<!-- OS -->
+<img src="https://skillicons.dev/icons?i=kalilinux" style="height: 42px;" title="Kali Linux">
+<img src="https://skillicons.dev/icons?i=linux" style="height: 42px;" title="Linux">
+<img src="https://skillicons.dev/icons?i=windows" style="height: 42px;" title="Windows">
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git" style="height: 42px;" title="Git">
+<img src="https://skillicons.dev/icons?i=github" style="height: 42px;" title="GitHub">
+<img src="https://custom-icon-badges.demolab.com/badge/-MonkeyType-000000?logo=keyboard" style="height: 42px;" title="MonkeyType">
+<img src="https://skillicons.dev/icons?i=postman" style="height: 42px;" title="Postman">
 
 <!-- IDEs -->
-<a href="#ides">
-  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=28"
-       style="height: 42px; background: conic-gradient(from 45deg, #000, #333)">
-</a>
+<img src="https://skillicons.dev/icons?i=vscode" style="height: 42px;" title="VS Code">
+<img src="https://custom-icon-badges.demolab.com/badge/-Code::Blocks-26963C?logo=codeblocks" style="height: 42px;" title="Code::Blocks">
+<img src="https://skillicons.dev/icons?i=pycharm" style="height: 42px;" title="PyCharm">
+<img src="https://skillicons.dev/icons?i=idea" style="height: 42px;" title="IntelliJ IDEA">
 
 </div>
