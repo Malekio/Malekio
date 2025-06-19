@@ -9,7 +9,7 @@
 <h2 align="center"><i>Contact me,</i></h2>
 <div align="center">
   <!-- Instagram
-  <a href="https://www.instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/username" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a> -->
   
@@ -19,7 +19,7 @@
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/profile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
@@ -30,7 +30,7 @@
 </div>
 
 
-<div align="right" style="width: 50%; white-space: nowrap; font-size: 0;">
+<div align="right" width="50%" style="width: 50%; white-space: nowrap; font-size: 0;">
   
 <!-- Left GIF -->
 <img width="49%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="display: inline-block; min-width: 300px;">
