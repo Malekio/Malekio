@@ -107,3 +107,15 @@ print("Works on my machine ¯\_(ツ)_/¯")
 ```
 </div>
 
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Malekio's GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=Malekio&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/aceiny/Malekio/output/snake.svg" alt="Snake animation" />
+
+###
