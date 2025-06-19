@@ -45,8 +45,6 @@
 </div>
 
 <p>somthing</p>
-
-<h3 align="center">Tech Stack</h3>
 <div align="center">
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=35&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
