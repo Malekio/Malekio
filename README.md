@@ -30,7 +30,13 @@
 </div>
 
 
-<p align="center">
-  <img width="45%" src="left-gif-url">
-  <img width="45%" src="right-gif-url">
-</p>
+<div align="center" style="width: 100%; overflow: auto;">
+  
+<!-- Left GIF -->
+<img align="left" width="49.5%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="min-width: 300px; margin-right: 1%;">
+
+<!-- Right GIF -->  
+<img align="right" width="49.5%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="min-width: 300px;">
+
+<br clear="both">
+</div>
