@@ -114,10 +114,3 @@ print("Works on my machine ¯\_(ツ)_/¯")
   <img src="https://nirzak-streak-stats.vercel.app?user=Malekio&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Malekio/Malekio/output/snake.svg" alt="Snake animation" />
-
-
-
-![Snake Game](https://raw.githubusercontent.com/Malekio/Malekio/main/dist/snake.svg)
