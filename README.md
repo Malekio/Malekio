@@ -41,15 +41,7 @@
      style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 </div>
 
-<div align="right" style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 14px; margin-left: auto;"
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(4px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 12px;
-  padding: 20px;
-  margin: 20px 0;
-">
-
+<div align="left">
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=26&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=26&labelColor=0C4B33&color=white" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
