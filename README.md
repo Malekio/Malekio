@@ -44,7 +44,7 @@
      style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 </div>
 
-
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 <!-- Programming Languages -->
