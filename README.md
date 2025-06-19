@@ -118,5 +118,5 @@ print("Works on my machine ¯\_(ツ)_/¯")
 
 <img src="https://raw.githubusercontent.com/Malekio/Malekio/output/snake.svg" alt="Snake animation" />
 
-![snake animation](https://github.com/<seu Malekio>/<seu Malekio>/blob/output/github-contribution-grid-snake2.svg)
-###
+
+![Snake animation](https://github.com/Malekio/Malekio/blob/main/dist/snake.svg)###
