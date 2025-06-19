@@ -40,7 +40,7 @@
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
 
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
