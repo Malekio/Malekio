@@ -30,7 +30,6 @@
 </div>
 
 <!-- Split Screen Container -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
 
   <!-- LEFT SIDE: Tech Icons -->
   <div style="width: 48%; display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
