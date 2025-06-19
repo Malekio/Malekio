@@ -98,6 +98,9 @@
 <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 </div>
 
+<br>
+<br>
+
 ```python
 print("Works on my machine ¯\_(ツ)_/¯")
 ```
