@@ -1,6 +1,9 @@
 <!-- Typing Animation -->
+
+
+<!-- Typing Animation -->
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!+--->;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 </div>
 
@@ -12,62 +15,66 @@
   <a href="https://www.instagram.com/username" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a> -->
-  
+
   <!-- Discord -->
   <a href="https://discordapp.com/users/yourid" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/profile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
+
   <!-- Gmail -->
   <a href="mailto:your@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
-<!-- Split Screen Container -->
+<div align="right" style="width: 50%;">
 
-  <!-- LEFT SIDE: Tech Icons -->
-  <div style="width: 48%; display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <!-- Programming Languages -->
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" title="Python"/>
-    <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" width="40" title="Django"/>
-    <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="40" title="C"/>
-    <img src="https://cdn.simpleicons.org/gnuassembly/6E4C13" alt="Assembly" width="40" title="Assembly"/>
-    <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="40" title="Java"/>
-<!-- Web Technologies -->
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" title="HTML5"/>
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" title="CSS3"/>
-    <!-- Databases -->
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" title="MySQL"/>
-    <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="40" title="SQLite"/>
-    <!-- Operating Systems -->
-    <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" width="40" title="Kali Linux"/>
-    <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" title="Linux"/>
-    <img src="https://cdn.simpleicons.org/windows/0078D6" alt="Windows" width="40" title="Windows"/>
-    <!-- Tools -->
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" title="Git"/>
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" title="GitHub"/>
-    <img src="https://cdn.simpleicons.org/monkeytype/000000" alt="MonkeyType" width="40" title="MonkeyType"/>
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" title="Postman"/>
-    <!-- IDEs -->
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="40" title="VS Code"/>
-    <img src="https://cdn.simpleicons.org/codeblocks/26963C" alt="Code::Blocks" width="40" title="Code::Blocks"/>
-    <img src="https://cdn.simpleicons.org/pycharm/000000" alt="PyCharm" width="40" title="PyCharm"/>
-    <img src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" width="40" title="IntelliJ IDEA"/>
-  </div>
+<!-- UP GIF -->
+  <img width="49%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="display: inline-block; min-width: 300px;">
 
-  <!-- RIGHT SIDE: GIFs -->
-  <div style="width: 48%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" width="49%" style="min-width: 200px;" alt="GIF 1">
-    <img src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" width="49%" style="min-width: 200px;" alt="GIF 2">
-  </div>
+<!-- DOWN GIF -->
+  <img width="49%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="display: inline-block; min-width: 300px;">
 
 </div>
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+<!-- Programming Languages -->
+<img  src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+<img  src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
+<img  src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
+<img  src="https://img.shields.io/badge/Assembly-6E4C13?logo=asm&logoColor=white" alt="Assembly">
+<img  src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java">
+
+<!-- Web Technologies -->
+<img  src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML">
+<img  src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS">
+
+<!-- Databases -->
+<img  src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+<img  src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+
+<!-- OS -->
+<img  src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" alt="Kali Linux">
+<img  src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+<img  src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+
+<!-- Tools -->
+<img  src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+<img  src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+<img  src="https://img.shields.io/badge/MonkeyType-000000?logo=monkeytype&logoColor=white" alt="MonkeyType">
+<img  src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+
+<!-- IDEs -->
+<img  src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VSCode">
+<img  src="https://img.shields.io/badge/Code::Blocks-26963C?logo=codeblocks&logoColor=white" alt="CodeBlocks">
+<img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" alt="PyCharm">
+<img  src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+
+</div>
 
 
