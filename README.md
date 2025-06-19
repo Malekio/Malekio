@@ -10,7 +10,7 @@
 
 </div>
 
-`HEY, THERE! I'm a <strong>CS student</strong> possionate about tech, I'm enjoying my journey here✨`
+`HEY, THERE! I'm a CS student possionate about tech, I'm enjoying my journey here✨`
 
 <h2 align="center"><i></i></h2>
 <div align="center">
