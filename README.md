@@ -119,4 +119,5 @@ print("Works on my machine ¯\_(ツ)_/¯")
 <img src="https://raw.githubusercontent.com/Malekio/Malekio/output/snake.svg" alt="Snake animation" />
 
 
-![Snake Game](https://raw.githubusercontent.com/your-username/your-username/main/dist/snake.svg)
+
+![Snake Game](https://raw.githubusercontent.com/Malekio/Malekio/main/dist/snake.svg)
