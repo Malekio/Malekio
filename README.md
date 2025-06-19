@@ -41,20 +41,7 @@
      style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 </div>
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -135,7 +122,8 @@
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 
 <!-- IDEs -->
-<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
 <img src="https://img.shields.io/badge/-Code::Blocks-26963C?style=for-the-badge&logo=codeblocks&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
