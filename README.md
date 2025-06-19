@@ -64,15 +64,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL" alt="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50" title="SQLite" alt="SQLite"/>
 <!-- OS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" title="Kali Linux" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django" alt="Django"/>
 <!-- Tools -->
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img src="https://monkeytype.com/mstile-150x150.png" width="40" title="MonkeyType" alt="MonkeyType"/>
+<img src="https://img.shields.io/badge/-MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 
 <!-- IDEs -->
