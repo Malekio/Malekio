@@ -30,7 +30,7 @@
 </div>
 
 
-<div align="right" style="width: 100%; white-space: nowrap; font-size: 0;">
+<div align="right" style="width: 50%; white-space: nowrap; font-size: 0;">
   
 <!-- Left GIF -->
 <img width="49%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="display: inline-block; min-width: 300px;">
