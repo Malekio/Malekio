@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!+Hi+There!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!+,+_+Hi+There!,+_+Hi+There!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
   <img align="right" src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
 
