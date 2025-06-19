@@ -29,7 +29,6 @@
   </a>
 </div>
 
-
 <div align="right" width="50%" style="width: 50%; white-space: nowrap; font-size: 0;">
   
 <!-- Left GIF -->
