@@ -5,6 +5,9 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!+--->;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+
 </div>
 
 <p align="center">HEY, THERE! I'm a <strong>CS student</strong> possionate about tech, I'm enjoying my journey here✨</p>
@@ -41,8 +44,6 @@
      style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 </div>
 
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
