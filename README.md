@@ -33,9 +33,9 @@
 <div align="center" style="width: 100%; white-space: nowrap; font-size: 0;">
   
 <!-- Left GIF -->
-<img width="49.5%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="display: inline-block; min-width: 300px;">
+<img width="49%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="display: inline-block; min-width: 300px;">
 
 <!-- Right GIF -->  
-<img width="49.5%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="display: inline-block; min-width: 300px;">
+<img width="49%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="display: inline-block; min-width: 300px;">
 
 </div>
