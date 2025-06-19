@@ -32,10 +32,10 @@
 <div align="right" width="50%" style="width: 50%; white-space: nowrap; font-size: 0;">
   
 <!-- Left GIF -->
-<img width="49%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="display: inline-block; min-width: 300px;">
+  <img width="49%" src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" style="display: inline-block; min-width: 300px;">
 
 <!-- Right GIF -->  
-<img width="49%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="display: inline-block; min-width: 300px;">
+  <img width="49%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="display: inline-block; min-width: 300px;">
 
 </div>
 
@@ -77,22 +77,3 @@
 
 
 
-
-<div align="right" style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
-
-<!-- Programming -->
-<img src="https://skillicons.dev/icons?i=python,django,c,java,assembly" width="360" style="margin-left: auto;">
-
-<!-- Web -->
-<img src="https://skillicons.dev/icons?i=html,css,mysql,sqlite" width="280" style="margin-left: auto;">
-
-<!-- Systems -->
-<img src="https://skillicons.dev/icons?i=linux,kalilinux,windows" width="240" style="margin-left: auto;">
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" width="280" style="margin-left: auto;">
-
-<!-- IDEs -->
-<img src="https://skillicons.dev/icons?i=idea,pycharm,eclipse" width="220" style="margin-left: auto;">
-
-</div>
