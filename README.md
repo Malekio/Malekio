@@ -48,39 +48,38 @@
 
 <div align="center">
 <!-- Programming Languages -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=24&labelColor=0C4B33&color=white" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" title="C" alt="C"/> 
-<img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"/>
-<img width="10" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=35&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=26&labelColor=0C4B33&color=white" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" alt="C"/> 
+  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
 
 <!-- Web Technologies -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"/>
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 
 <!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42" title="MySQL" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="42" title="SQLite" alt="SQLite"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50" title="SQLite" alt="SQLite"/>
 <!-- OS -->
-<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="36" alt="linux logo"/>
-<img width="10" />
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" title="Django" alt="Django"/>
-
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django" alt="Django"/>
 <!-- Tools -->
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://img.shields.io/badge/-MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://img.shields.io/badge/-MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
 
 <!-- IDEs -->
-<img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"/>
-<img width="10" />
-<img src="https://img.shields.io/badge/-Code::Blocks-26963C?style=for-the-badge&logo=codeblocks&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
-<img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&logoWidth=24" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px; height: 40px">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+<img src="https://img.shields.io/badge/-Code::Blocks-26963C?style=for-the-badge&logo=codeblocks&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+<img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+
 </div>
