@@ -32,14 +32,11 @@
   </a>
 </div>
 
-<div align="right" style="display: flex; flex-direction: column; align-items: flex-end;">
-
+<div align="right" style="display: flex; flex-direction: column; align-items: flex-end; margin: 0; padding: 0; line-height: 0;">
 <!-- Top Image -->
 <img src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" 
-     style="width: 300px; margin-bottom: -4px; border-radius: 8px 8px 0 0; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-
+     style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 8px 8px 0 0; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 <!-- Bottom Image -->  
 <img src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64"
-     style="width: 300px; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-
+     style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 </div>
