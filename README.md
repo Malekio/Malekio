@@ -39,8 +39,7 @@
 <img width="49%" src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64" style="display: inline-block; min-width: 300px;">
 
 </div>
-style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;"
-<div align="right" >
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 <!-- Programming Languages -->
 <img  src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
