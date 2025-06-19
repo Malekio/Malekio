@@ -100,8 +100,10 @@
 
 <br>
 <br>
-
+<div align="center">
+  
 ```python
 print("Works on my machine ¯\_(ツ)_/¯")
 ```
+</div>
 
