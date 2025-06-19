@@ -44,7 +44,7 @@
      style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 </div>
 
-<p>somthing</p>
+<h2 align="center"><i></i></h2>
 <div align="center">
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=35&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
