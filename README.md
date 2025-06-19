@@ -9,6 +9,7 @@
   <img width="12" />
 
 </div>
+
 `HEY, THERE! I'm a <strong>CS student</strong> possionate about tech, I'm enjoying my journey here✨`
 
 <h2 align="center"><i></i></h2>
