@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<div align="right" style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+<div align="right" style="display: flex; flex-direction: column; align-items: flex-end; gap: 0px;">
 
 <!-- Top Image -->
 <img src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" 
