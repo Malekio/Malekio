@@ -55,7 +55,7 @@
 <div align="center">
   
   <!-- GitHub Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" style="margin-right: 20px;">
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&theme=transparent&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" style="margin-right: 20px;">
+
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Malekio&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+<img src="https://streak-stats.demolab.com/?user=Malekio&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
