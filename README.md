@@ -42,7 +42,7 @@
 
  <div align="center">
      
-   `/Computer Science Student/passionate/`
+   `/Computer Science Student/at/passionate/`
 </div>
 
 <hr>
