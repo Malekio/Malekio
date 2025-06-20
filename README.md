@@ -1,26 +1,23 @@
-<!-- Typing Animation -->
-
-
-<!-- Typing Animation -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=300&lines=Hi+There!+Hi+There!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
-  <img align="right" src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-
+ <div align="center">
+     
+<img align="center" src="https://github.com/user-attachments/assets/2e1464f5-2df4-4f09-b27c-7af10dc344bf">
 </div>
 <div align="center">
-  
-`HEY, THERE! I'm a CS student possionate about tech, I'm enjoying my journey here✨`
 </div>
-<h2 align="center"><i></i></h2>
-<div align="center">
-  <!-- Instagram
-  <a href="https://www.instagram.com/username" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a> -->
 
-  <!-- Discord -->
+<br>
+
+<div align="center">
+  <a href="mailto:zabdelmalek848@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red">
+  </a>
+  <a href="https://www.facebook.com/keyandelgado.fajanoy">
+    <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/https.keyan/">
+    <img alt="Instagram" title="" &#x22;follow="" on="" instagram&#x22;="" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">
+  </a>
+    <!-- Discord -->
   <a href="https://discordapp.com/users/yourid" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -31,86 +28,34 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:your@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:zabdelmalek848@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/Malekio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+
 </div>
 
-<h2 align="center"><i></i></h2>
+<br>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: flex-end; margin: 0; padding: 0; line-height: 0;">
-<!-- Top Image -->
-<img src="https://github.com/user-attachments/assets/2a172b8b-f388-43d9-93aa-1b9161cbecfa" 
-     style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 8px 8px 0 0; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-<!-- Bottom Image -->  
-<img src="https://github.com/user-attachments/assets/8754b58c-e16b-4adc-96ab-c237e8189e64"
-     style="width: 300px; margin: 0; padding: 0; display: block; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+ <div align="center">
+     
+   `/Computer Science Student/passionate/`
 </div>
 
-<h2 align="center"><i></i></h2>
+<hr>
 <div align="center">
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=35&labelColor=306998&color=FFD43B" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=26&labelColor=0C4B33&color=white" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" alt="C"/> 
-<img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
-<img width="8"/>
-
-<!-- Web Technologies -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-<img width="8"/>
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" title="MySQL" alt="MySQL"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="70" title="SQLite" alt="SQLite"/>
-<img width="8"/>
-
-<!-- OS -->
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img width="8"/>
-<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"/>
-<img width="8"/>
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img src="https://img.shields.io/badge/-Parrot_Security-000000?style=for-the-badge&logo=parrotsecurity&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img width="8"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img width="8"/>
-<img src="https://img.shields.io/badge/-MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img width="8"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img width="8"/>
-
-<!-- IDEs -->
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
-<img width="8"/>
-<img src="https://img.shields.io/badge/-Code::Blocks-26963C?style=for-the-badge&logo=codeblocks&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img width="8"/>
-<img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
-<img width="8"/>
-<img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&logoWidth=26" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 6px;">
+  <img src="https://skillicons.dev/icons?i=python,django,c,java,html,css,mysql,sqlite,postman"><br>
+  <img src="https://skillicons.dev/icons?i=debian,github,git,vscode,pycharm,idea,arduino,linux,windows,ubuntu,kali">
 </div>
-
-<br>
-<br>
+<h2 align="center" ><i></i></h2>
+ 
 <div align="center">
   
-```python
-print("Works on my machine ¯\_(ツ)_/¯")
-```
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Malekio's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=Malekio&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
+  <!-- GitHub Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" style="margin-right: 20px;">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Malekio&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
