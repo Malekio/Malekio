@@ -11,7 +11,7 @@
   <a href="mailto:zabdelmalek848@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red">
   </a>
-  <a href="https://www.facebook.com/keyandelgado.fajanoy">
+  <a href="https://www.facebook.com/">
     <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white">
   </a>
   <a href="https://www.instagram.com/https.keyan/">
