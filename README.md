@@ -42,7 +42,7 @@
 
  <div align="center">
      
-   `/Computer Science Student/at/ESTIN/passionate/خضرة بإذن الله/`
+   `/Computer Science Student/خضرة بإذن الله/`
 </div>
 
 <hr>
