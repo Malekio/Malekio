@@ -55,7 +55,7 @@
 <div align="center">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=transparent&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" style="margin-right: 20px;">
-   <img src="https://nirzak-streak-stats.vercel.app?user=&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&theme=transparent&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" style="margin-right: 20px;">
+   <img src="https://nirzak-streak-stats.vercel.app?user=Malekio&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 </div>
