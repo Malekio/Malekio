@@ -47,7 +47,7 @@
 
 <hr>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,c,java,html,css,mysql,sqlite,postman,fastapi"><br>
+  <img src="https://skillicons.dev/icons?i=python,django,c,java,html,css,mysql,sqlite,postman,fastapi,redis"><br>
   <img src="https://skillicons.dev/icons?i=debian,github,git,vscode,pycharm,idea,arduino,linux,windows,ubuntu,kali,godot">
 </div>
 <h2 align="center" ><i></i></h2>
