@@ -57,5 +57,13 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malekio&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" style="margin-right: 20px;">
    <img src="https://nirzak-streak-stats.vercel.app?user=Malekio&theme=transparent&hide_border=true" alt="GitHub Streak" />
+ <br><br>
+
+<a href="YOUR_LINK_URL">
+    <img src="https://leetcode-stats.vercel.app/api?username=Malekio&theme=dark" align="left">
+</a>
+<img align="right" src="https://github.com/user-attachments/assets/211a3aa6-a47f-4f80-bc58-b83a40f0e2fa" width="30%">
 
 </div>
+
+
